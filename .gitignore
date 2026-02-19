@@ -25,3 +25,11 @@ yarn-error.log*
 
 # artifacts
 *.apk
+*.aab
+*.ipa
+
+# signing files
+*.keystore
+*.jks
+*.p12
+*.mobileprovision
