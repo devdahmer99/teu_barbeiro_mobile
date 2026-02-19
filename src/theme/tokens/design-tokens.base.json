@@ -1,0 +1,79 @@
+{
+  "color": {
+    "slate": {
+      "950": "#020617",
+      "900": "#0F172A",
+      "800": "#1E293B",
+      "700": "#334155",
+      "600": "#475569",
+      "500": "#64748B",
+      "400": "#94A3B8",
+      "300": "#CBD5E1",
+      "200": "#E2E8F0",
+      "100": "#F1F5F9",
+      "50": "#F8FAFC"
+    },
+    "amber": {
+      "500": "#F59E0B",
+      "600": "#D97706"
+    },
+    "state": {
+      "success": "#22C55E",
+      "error": "#EF4444",
+      "warning": "#F59E0B",
+      "info": "#38BDF8"
+    },
+    "charts": [
+      "#38BDF8",
+      "#A78BFA",
+      "#34D399",
+      "#F59E0B",
+      "#F87171",
+      "#60A5FA"
+    ]
+  },
+  "surface": {
+    "base": "#020617",
+    "elevated": "#0F172A",
+    "muted": "#1E293B"
+  },
+  "text": {
+    "primary": "#F8FAFC",
+    "secondary": "#CBD5E1",
+    "muted": "#94A3B8",
+    "onBrand": "#0F172A"
+  },
+  "border": {
+    "default": "#334155",
+    "subtle": "#1E293B"
+  },
+  "spacing": {
+    "xs": 4,
+    "sm": 8,
+    "md": 12,
+    "lg": 16,
+    "xl": 24,
+    "2xl": 32
+  },
+  "radius": {
+    "sm": 8,
+    "md": 12,
+    "lg": 16,
+    "pill": 999
+  },
+  "typography": {
+    "size": {
+      "xs": 12,
+      "sm": 14,
+      "md": 16,
+      "lg": 20,
+      "xl": 24
+    },
+    "weight": {
+      "regular": "400",
+      "medium": "500",
+      "semibold": "600",
+      "bold": "700"
+    }
+  }
+}

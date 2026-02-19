@@ -1,0 +1,79 @@
+{
+  "color": {
+    "slate": {
+      "950": "0xFF020617",
+      "900": "0xFF0F172A",
+      "800": "0xFF1E293B",
+      "700": "0xFF334155",
+      "600": "0xFF475569",
+      "500": "0xFF64748B",
+      "400": "0xFF94A3B8",
+      "300": "0xFFCBD5E1",
+      "200": "0xFFE2E8F0",
+      "100": "0xFFF1F5F9",
+      "50": "0xFFF8FAFC"
+    },
+    "amber": {
+      "500": "0xFFF59E0B",
+      "600": "0xFFD97706"
+    },
+    "state": {
+      "success": "0xFF22C55E",
+      "error": "0xFFEF4444",
+      "warning": "0xFFF59E0B",
+      "info": "0xFF38BDF8"
+    },
+    "charts": [
+      "0xFF38BDF8",
+      "0xFFA78BFA",
+      "0xFF34D399",
+      "0xFFF59E0B",
+      "0xFFF87171",
+      "0xFF60A5FA"
+    ]
+  },
+  "surface": {
+    "base": "0xFF020617",
+    "elevated": "0xFF0F172A",
+    "muted": "0xFF1E293B"
+  },
+  "text": {
+    "primary": "0xFFF8FAFC",
+    "secondary": "0xFFCBD5E1",
+    "muted": "0xFF94A3B8",
+    "onBrand": "0xFF0F172A"
+  },
+  "border": {
+    "default": "0xFF334155",
+    "subtle": "0xFF1E293B"
+  },
+  "spacing": {
+    "xs": 4,
+    "sm": 8,
+    "md": 12,
+    "lg": 16,
+    "xl": 24,
+    "2xl": 32
+  },
+  "radius": {
+    "sm": 8,
+    "md": 12,
+    "lg": 16,
+    "pill": 999
+  },
+  "typography": {
+    "size": {
+      "xs": 12,
+      "sm": 14,
+      "md": 16,
+      "lg": 20,
+      "xl": 24
+    },
+    "weight": {
+      "regular": "400",
+      "medium": "500",
+      "semibold": "600",
+      "bold": "700"
+    }
+  }
+}

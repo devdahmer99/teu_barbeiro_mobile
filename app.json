@@ -1,0 +1,9 @@
+{
+  "name": "teu_barbeiro_mobile",
+  "displayName": "Teu Barbeiro",
+  "scheme": "teubarbeiro",
+  "plugins": [],
+  "android": {
+    "package": "com.anonymous.teu_barbeiro_mobile"
+  }
+}
